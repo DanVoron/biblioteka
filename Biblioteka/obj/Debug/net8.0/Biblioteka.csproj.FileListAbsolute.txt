@@ -1,0 +1,14 @@
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\bin\Debug\net8.0\Biblioteka.exe
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\bin\Debug\net8.0\Biblioteka.deps.json
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\bin\Debug\net8.0\Biblioteka.runtimeconfig.json
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\bin\Debug\net8.0\Biblioteka.dll
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\bin\Debug\net8.0\Biblioteka.pdb
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\obj\Debug\net8.0\Biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\obj\Debug\net8.0\Biblioteka.AssemblyInfoInputs.cache
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\obj\Debug\net8.0\Biblioteka.AssemblyInfo.cs
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\obj\Debug\net8.0\Biblioteka.csproj.CoreCompileInputs.cache
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\obj\Debug\net8.0\Biblioteka.dll
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\obj\Debug\net8.0\refint\Biblioteka.dll
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\obj\Debug\net8.0\Biblioteka.pdb
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\obj\Debug\net8.0\Biblioteka.genruntimeconfig.cache
+D:\Users\Dan\RiderProjects\Biblioteka\Biblioteka\obj\Debug\net8.0\ref\Biblioteka.dll
